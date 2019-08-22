@@ -1,6 +1,8 @@
 # pspnet-pytorch
 PyTorch implementation of PSPNet segmentation network
 
+*https://www.cnblogs.com/wzyuan/p/10224793.html* （chinese instructions）
+
 
 ### Original paper
 
